@@ -1,0 +1,15 @@
+# Java / Maven
+backend/target/
+*.class
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# SO
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
