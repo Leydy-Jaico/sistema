@@ -1,0 +1,21 @@
+body {
+    min-height: 100vh;
+}
+
+.card {
+    border: 0;
+    border-radius: 14px;
+}
+
+.form-control {
+    min-height: 44px;
+}
+
+.table td,
+.table th {
+    vertical-align: middle;
+}
+
+.acciones {
+    white-space: nowrap;
+}
