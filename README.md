@@ -180,7 +180,7 @@ GET /api/v1/clientes?nombre=Carlos
 **When** la API realiza la búsqueda.  
 **Then** debe devolver `200 OK` con las coincidencias encontradas.
 
-La búsqueda por nombre permite coincidencias parciales y no diferencia entre mayúsculas y minúsculas.
+La búsqueda por nombre permite coincidencias parciales y no distingue entre mayúsculas y minúsculas.
 
 ---
 
